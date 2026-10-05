@@ -4,9 +4,9 @@
 # Autor: FmCoDeX
 # Fecha: 04/10/2026
 
-from metodos.biseccion import metodo_biseccion
-from metodos.regla_falsa import metodo_regla_falsa
-from utilidades.funciones import crear_funcion
+from biseccion import metodo_biseccion
+from regla_falsa import metodo_regla_falsa
+from funciones import crear_funcion
 
 
 # Función que muestra el menú principal de la aplicación.
